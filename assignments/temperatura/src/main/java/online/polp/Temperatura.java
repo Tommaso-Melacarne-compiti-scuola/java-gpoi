@@ -9,7 +9,7 @@ public class Temperatura {
     /**
      * Costruisce un oggetto Temperatura a partire da un valore in gradi Celsius.
      * 
-     * @param valoreCelsius
+     * @param valoreCelsius il valore iniziale della temperatura
      */
     public Temperatura(double valoreCelsius) {
         this.valoreCelsius = valoreCelsius;
